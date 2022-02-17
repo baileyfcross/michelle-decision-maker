@@ -3,8 +3,8 @@ import java.util.Scanner;
 /**
  * Write a description of class maker here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Bailey Cross
+ * @version 1 (Probably final version as well)
  */
 public class maker
 {
